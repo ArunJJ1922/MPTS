@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:id="@+id/action_home"
+        android:icon="@drawable/home_icon"/>
+
+    <item android:title="Chat"
+        android:id="@+id/action_chat"
+        android:icon="@drawable/chat_icon"/>
+
+    <item android:title="About Us"
+        android:id="@+id/action_about"
+        android:icon="@drawable/about_icon"/>
+
+    <item android:title="Feedback"
+        android:id="@+id/action_feedback"
+        android:icon="@drawable/feedback_icon"/>
+
+    <item android:title="PT Image"
+        android:id="@+id/action_pic"
+        android:icon="@drawable/picture_icon"/>
+
+</menu>
